@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "66495209561",
+    "project_id": "personal-safety-app-3ced7",
+    "storage_bucket": "personal-safety-app-3ced7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66495209561:android:9e122ff86b287042e79148",
+        "android_client_info": {
+          "package_name": "com.kpm.personalSafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66495209561-d31ditmcorfnc03ka5kumqf9qosq9gg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kpm.personalSafety",
+            "certificate_hash": "89bf64c9130292e2c89025d16f5e2df40166f64d"
+          }
+        },
+        {
+          "client_id": "66495209561-bc1i6c6v80mdd315g7s651phe2hbr5qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9KOswLitn-DPFngSf6c0nW1_zoXwCQcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66495209561-bc1i6c6v80mdd315g7s651phe2hbr5qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
